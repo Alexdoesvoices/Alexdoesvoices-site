@@ -12,3 +12,13 @@
     font-size: 40px;
     background-color: whitesmoke;
   }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .borderer {
+    border: 1px solid;
+    width: fit-content;;
+  }
