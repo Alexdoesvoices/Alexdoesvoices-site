@@ -20,5 +20,13 @@
   }
   .borderer {
     border: 1px solid;
-    width: fit-content;;
-  }
+    width: fit-content;
+ }
+ .textboxbold {
+font-weight: bold;
+font-size: 25px;
+background-color: aliceblue;
+width: fit-content;
+border: .1px solid ;
+border-radius: 5px;
+ }
