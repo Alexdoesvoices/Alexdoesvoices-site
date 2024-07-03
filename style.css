@@ -1,6 +1,7 @@
 
   body {
     background-color: beige;
+    
   }
   h1 {
     font-size: 15px;
@@ -11,6 +12,7 @@
     width: fit-content;
     font-size: 40px;
     background-color: whitesmoke;
+    
   }
   .center {
     display: block;
