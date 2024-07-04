@@ -32,4 +32,20 @@ width: fit-content;
 border: .1px solid ;
 border-radius: 5px;
  }
- 
+ .listbox {
+  font-weight: bold;
+  font-size: 25px;
+  background-color: aliceblue;
+  width: 210px;
+  display: block;
+  text-align: center;
+  border: .1px solid ;
+  border-radius: 5px;
+  border-spacing: 20px;
+  left: 44.5%;
+  color: black;
+  accent-color: blue;
+   }
+  a:hover{
+    color: blue;
+  }
