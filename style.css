@@ -40,8 +40,9 @@ border-radius: 5px;
   text-align: center;
   border: .1px solid ;
   border-radius: 5px;
-  border-spacing: 20px;
-  left: 44.5%;
+  /* border-spacing: 20px;  */
+  margin: auto;
+
   color: black;
   accent-color: blue;
    }
@@ -52,3 +53,9 @@ border-radius: 5px;
   {
 color: black;
   }
+  .linklist{ 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between; /* Evenly space items vertically */ 
+    height: 400px; /* Set the height of the container */ 
+} 
