@@ -23,7 +23,7 @@
     border: 1px solid;
     width: fit-content;
  }
- .textboxbold {
+ .subheader_bold {
 font-weight: bold;
 font-size: 25px;
 background-color: aliceblue;
@@ -31,7 +31,7 @@ width: fit-content;
 border: .1px solid ;
 border-radius: 5px;
  }
- .listbox {
+ .list_box_entry {
   font-weight: bold;
   font-size: 25px;
   background-color: aliceblue;
@@ -40,11 +40,8 @@ border-radius: 5px;
   text-align: center;
   border: .1px solid ;
   border-radius: 5px;
-  /* border-spacing: 20px;  */
   margin: auto;
-
   color: black;
-  accent-color: blue;
    }
   a:hover{
     color: blue;
@@ -53,7 +50,7 @@ border-radius: 5px;
   {
 color: black;
   }
-  .linklist{ 
+  .center_list_even_spacing{ 
     display: flex; 
     flex-direction: column; 
     justify-content: space-between; /* Evenly space items vertically */ 
