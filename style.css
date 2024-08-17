@@ -71,3 +71,16 @@ color: black;
 .audio_player_500px{
   width: 500px;
 }
+.sticky_header {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px solid;
+  text-align: center;
+  background-color: white;
+  margin: -10px;
+  font-size: 30px;
+  font-weight: bold;
+  position: sticky;
+  margin-bottom: 10px;
+}
