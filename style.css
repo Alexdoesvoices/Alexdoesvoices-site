@@ -45,7 +45,7 @@ border-radius: 5px;
   text-decoration: none;
    }
   a:hover{
-    color: blue;
+    color: rgb(38, 0, 255) ;
   }
   .homebutton
   {
@@ -57,3 +57,17 @@ color: black;
     justify-content: space-between; /* Evenly space items vertically */ 
     height: 400px; /* Set the height of the container */ 
 } 
+.voice_div_style{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px solid; 
+  width: min-content; 
+  background-color: whitesmoke;
+  text-align: center; 
+  font-weight: bold;
+  font-size: large;
+}
+.audio_player_500px{
+  width: 500px;
+}
