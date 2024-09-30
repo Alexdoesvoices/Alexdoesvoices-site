@@ -45,6 +45,19 @@ border-radius: 5px;
   text-decoration: none;
   font-weight:900;
    }
+   .center_entry {
+    font-weight: bold;
+    font-size: 25px;
+    background-color: aliceblue;
+    width: 210px;
+    display: block;
+    text-align: center;
+    border: .1px solid ;
+    border-radius: 5px;
+    margin: auto;
+    color: black;
+    text-decoration: none;
+     }
   a:hover{
     color: rgb(0, 237, 63) ;
   }
