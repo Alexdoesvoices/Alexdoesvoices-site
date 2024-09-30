@@ -1,0 +1,89 @@
+
+body {
+    background-color: rgba(233, 135, 7, 0.969);
+  }
+  h1 {
+    font-size: 15px;
+  }
+  h6 {
+    border: 5px solid black ;
+    border-radius: 10px;
+    width: fit-content;
+    font-size: 40px;
+    background-color: whitesmoke;
+    
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .borderer {
+    border: 1px solid;
+    width: fit-content;
+ }
+ .subheader_bold {
+font-weight: bold;
+font-size: 25px;
+background-color: aliceblue;
+width: fit-content;
+border: .1px solid ;
+border-radius: 5px;
+ }
+ .list_box_entry {
+  font-weight: bold;
+  font-size: 25px;
+  background-color: aliceblue;
+  width: 210px;
+  display: block;
+  text-align: center;
+  border: .1px solid ;
+  border-radius: 5px;
+  margin: auto;
+  color: rgb(20, 164, 20);   /*Text on List box Entry  */
+  text-decoration: none;
+  font-weight:900;
+   }
+  a:hover{
+    color: rgb(0, 237, 63) ;
+  }
+  .homebutton
+  {
+color: black;
+  }
+  .center_list_even_spacing{ 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between; /* Evenly space items vertically */ 
+    height: 400px; /* Set the height of the container */ 
+} 
+.voice_div_style{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px solid; 
+  width: min-content; 
+  background-color: whitesmoke;
+  text-align: center; 
+  font-weight: bold;
+  font-size: large;
+}
+.audio_player_500px{
+  width: 500px;
+}
+.sticky_header {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px solid;
+  text-align: center;
+  background-color: white;
+  margin: -10px;
+  font-size: 30px;
+  font-weight: bold;
+  position:-webkit-sticky;
+  position: sticky;
+  margin-bottom: 10px;
+  top: 0px;
+}
