@@ -1,6 +1,6 @@
 
   body {
-    background-color: royalblue;
+    background-color: orangered;
   }
   h1 {
     font-size: 15px;
@@ -58,7 +58,7 @@ border-radius: 5px;
     text-decoration: none;
      }
   a:hover{
-    color: rgb(38, 0, 255) ;
+    color: green ;
   }
   .homebutton
   {
